@@ -1,0 +1,8 @@
+{
+  "name": "ElimuSmart - CBC & JSS Management System",
+  "description": "A comprehensive school management system for Kenyan schools featuring student tracking, CBC/JSS assessments, automated report cards with AI remarks, and finance management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
